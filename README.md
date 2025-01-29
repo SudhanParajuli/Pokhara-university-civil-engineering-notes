@@ -82,11 +82,5 @@ We update this repository regularly. Be sure to **star** this repository to stay
 
 ---
 
-## 📬 Contact
-
-If you have any questions, suggestions, or need help, feel free to reach out via [email](mailto:sudhan@pokharauniversity.com).
-
----
-
 ## Tags:
 **Pokhara University Notes**, **Civil Engineering Notes**, **IT Engineering Notes**, **Semester Notes**, **Study Materials**, **University Resources**, **Free Notes**, **Engineering Notes**, **Pokhara University Resources**, **Civil Engineering Study Materials**, **IT Engineering Study Materials**, **University Exam Notes**, **Pokhara University Semester Notes**, **Download Notes**, **Free Engineering Notes**, **University Exam Preparation**.
